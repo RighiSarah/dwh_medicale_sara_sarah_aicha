@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_KTUZIOUgEei9YZKu2J1QGQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_KTUZIeUgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_Login" prompt="input_dwh_medical_Login?" promptNeeded="false" type="id_String" value="team"/>
+  <contextParameter xmi:id="_KTUZIuUgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_Port" prompt="input_dwh_medical_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_KTUZI-UgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_AdditionalParams" prompt="input_dwh_medical_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter xmi:id="_KTUZJOUgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_Password" prompt="input_dwh_medical_Password?" promptNeeded="false" type="id_Password" value="cpVqBHarOfE="/>
+  <contextParameter xmi:id="_KTUZJeUgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_Server" prompt="input_dwh_medical_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_KTUZJuUgEei9YZKu2J1QGQ" comment="" name="input_dwh_medical_Database" prompt="input_dwh_medical_Database?" promptNeeded="false" type="id_String" value="dwh_medicale_sara_sarah_aicha"/>
+</talendfile:ContextType>
